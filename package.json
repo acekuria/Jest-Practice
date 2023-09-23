@@ -9,6 +9,7 @@
     "test": "jest",
     "build": "webpack"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
